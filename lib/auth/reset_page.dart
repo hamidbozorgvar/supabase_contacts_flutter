@@ -16,7 +16,7 @@ class _ResetPageState extends State<ResetPage> {
   Future<void> _resetPassword() async {
     setState(() {
       _isLoading = true;
-      _statusMessage = 'Sending reset link...';
+      _statusMessage = 'Sending reset link*';
     });
 
     final email = _emailController.text.trim();
