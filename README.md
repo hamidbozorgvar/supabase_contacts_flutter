@@ -21,7 +21,7 @@ The app leverages **PostgreSQL** as the database with **Supabase Policies** for 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hamidbozorgvar/supabase_contacts_flutter.git
+   https://github.com/hamidbozorgvar/supabase_contacts_flutter.git
 Navigate to the project folder:
 
 Configuration
